@@ -3,7 +3,7 @@
 Advanced Schwozodry is a modpack with emphasis on wizadry, exploration and electricity for the Fabric Mod Loader.
 
 # Installation
-
+Download and install Fabric for Minecraft 1.19.2
 Download the zip and move all items into your corresponding mod folder
 
 # Disclaimer
