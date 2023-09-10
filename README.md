@@ -9,3 +9,6 @@ Download the zip and move all items into your corresponding mod folder
 # Disclaimer
 
 Whilst this modpack contains many mods, they are not associated with me. I do not claim ownership of any of the original content from these mods.
+
+# Server Side
+For the server side visit https://github.com/agblacky/advanced_schwozodry_server
